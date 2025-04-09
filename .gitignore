@@ -51,6 +51,9 @@ Plugins/**/Binaries/*
 
 # Builds
 Build/*
+StagedBuilds/*
+AFloat/Saved/StagedBuilds/
+Saved/StagedBuilds/
 
 # Whitelist PakBlacklist-<BuildConfiguration>.txt files
 !Build/*/
